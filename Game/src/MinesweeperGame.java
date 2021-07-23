@@ -1,6 +1,3 @@
-package com.codegym.games.minesweeper;
-
-
 import com.codegym.engine.cell.*;
 
 import java.util.ArrayList;
